@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @melanie-lau-data.
+- 👋 Hi, I’m @mel5data.
 - 👀 I’m interested in healthcare analytics and data analytics.
 - 🌱 I’m currently learning Python, SQL, and Microsoft BI.
 - 💞️ I’m looking to collaborate on health data and explore ways to improve patient flow in a healthcare setting.
